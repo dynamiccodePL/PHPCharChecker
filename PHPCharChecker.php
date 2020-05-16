@@ -4,7 +4,7 @@
 
 function char_checker($char, $string = '', $remove = FALSE) {
 
-if($string === '') die('Podaj jakiś tekst.');
+if($string === '') die('Input string');
 
 $words = explode(' ', $string);
 

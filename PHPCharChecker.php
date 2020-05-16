@@ -1,6 +1,6 @@
 <?php
 
-$string = 'Czy to zdanie jest zakończone kropką?';
+
 
 function char_checker($char, $string = '') {
 

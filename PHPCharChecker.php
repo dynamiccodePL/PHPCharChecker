@@ -1,6 +1,8 @@
 <?php
 
-
+/*
+* Autor: https://programistyczny.blogspot.com
+*/
 
 function char_checker($char, $string = '', $remove = FALSE) {
 
